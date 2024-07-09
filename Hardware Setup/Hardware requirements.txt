@@ -1,0 +1,9 @@
+1. NODE_MCU ESP8266)
+2. DHT22 (temp and humidity)
+3. GUVA-S12SD (UV INDEX)
+4. BMP180 (Barometric pressure )
+5. Soil Moisture
+6. CD 4051 IC (Analog MUX/DEMUX) --(Req +3.3V From NODE_MCU)
+7. WIRE
+8. Breadboard
+9. Power Supply (+5v)
